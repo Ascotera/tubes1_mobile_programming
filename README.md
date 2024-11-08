@@ -1,16 +1,6 @@
 # tubes1_mobile_programming
 
-A new Flutter project.
+https://dribbble.com/shots/15474330-Monster-Messenger-App-UI-Kit
+![8fdc9b07b997ea5cbb5a6f39a2b8a7c1](https://github.com/user-attachments/assets/128a85eb-d6bf-4fcf-a978-100621acb769)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Tubes 1](https://github.com/user-attachments/assets/15661d8c-3d15-4642-a16d-f096b22f1aa3)
